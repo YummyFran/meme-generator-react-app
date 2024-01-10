@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/yummyfran.github.io/meme-generator-react-app/static/css/main.6fa1462e.css",
+    "main.js": "/yummyfran.github.io/meme-generator-react-app/static/js/main.195c2ee2.js",
+    "static/media/troll.png": "/yummyfran.github.io/meme-generator-react-app/static/media/troll.d1e757ca11be74a5f308.png",
+    "index.html": "/yummyfran.github.io/meme-generator-react-app/index.html",
+    "main.6fa1462e.css.map": "/yummyfran.github.io/meme-generator-react-app/static/css/main.6fa1462e.css.map",
+    "main.195c2ee2.js.map": "/yummyfran.github.io/meme-generator-react-app/static/js/main.195c2ee2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fa1462e.css",
+    "static/js/main.195c2ee2.js"
+  ]
+}
